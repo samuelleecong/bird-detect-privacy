@@ -10,6 +10,12 @@ https://samuelleecong.github.io/bird-detect-privacy/
 
 This is the URL referenced from inside the app (Settings → About → Privacy Policy) and submitted to App Store Connect as the app's privacy policy URL.
 
+App Review sample files are hosted at:
+
+```
+https://samuelleecong.github.io/bird-detect-privacy/reviewer-samples/
+```
+
 ## Deployment
 
 This folder is meant to be the contents of a dedicated public repository named `bird-detect-privacy` on GitHub, with GitHub Pages enabled from the `main` branch root.
