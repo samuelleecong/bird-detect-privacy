@@ -1,6 +1,6 @@
-# Bird Detect — Privacy Policy
+# BirdFrame — Privacy Policy
 
-Static GitHub Pages site hosting the privacy policy for the Bird Detect macOS app.
+Static GitHub Pages site hosting the privacy policy for the BirdFrame macOS app.
 
 ## Live URL
 
